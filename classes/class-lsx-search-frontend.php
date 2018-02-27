@@ -176,7 +176,7 @@ class LSX_Search_Frontend {
 	 * Sets post types with active search options.
 	 */
 	public function register_post_types( $post_types ) {
-		$post_types = array( 'project', 'service', 'team', 'testimonial', 'video', 'product' );
+		$post_types = array( 'project', 'service', 'team', 'testimonial', 'video', 'product', 'documentation' );
 		return $post_types;
 	}
 
@@ -193,6 +193,7 @@ class LSX_Search_Frontend {
 	 */
 	public function register_post_type_tabs( $post_types_plural ) {
 		$post_types_plural = array(
+			'documentation' => 'documentation',
 			'project' => 'projects',
 			'service' => 'services',
 			'team' => 'team',

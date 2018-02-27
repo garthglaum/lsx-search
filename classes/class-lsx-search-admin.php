@@ -50,6 +50,7 @@ class LSX_Search_Admin {
 	 */
 	public function register_post_type_tabs( $post_types_plural ) {
 		$post_types_plural = array(
+			'documentation' => 'documentation',
 			'project' => 'projects',
 			'service' => 'services',
 			'team' => 'team',
