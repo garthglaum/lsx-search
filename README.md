@@ -22,7 +22,7 @@ The LSX Search plugin enhances the search functionality for the LSX Theme and re
 2. Requires [FacetWP](https://facetwp.com/) to be installed and active on the website.
 
 ## Works with the LSX Theme
-Our theme [theme](https://lsx.lsdev.biz/) works perfectly with the LSX Search, improving search capabilties.
+Our [theme](https://lsx.lsdev.biz/) works perfectly with the LSX Search, improving search capabilties.
 
 ## Gutenberg Compatible
 Have you updated to the new WordPress Gutenberg editor? We've got you covered! [The LSX Theme](https://lsx.lsdev.biz/) and all of its extensions have been optimised to work perfectly with the new Gutenberg update. 
